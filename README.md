@@ -10,7 +10,7 @@ I am an experienced self-taught programmer and am currently working towards my B
 - 👨‍💻 Coding Experience: 3+ years
 - 📚 Spoken Languages: English, Bengali, Hindi
 
-<h2><img src="https://img.icons8.com/cotton/20/000000/technical-support.png"/> Technical Skills</h2>
+<h2><img src="https://img.icons8.com/cotton/30/000000/technical-support.png"/> Technical Skills</h2>
 
 <h4>Programming Languages</h4>
 
@@ -63,7 +63,7 @@ I am an experienced self-taught programmer and am currently working towards my B
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<h2><img src="https://img.icons8.com/color/20/000000/phone.png"/> Connect With Me</h2>
+<h2><img src="https://img.icons8.com/color/30/000000/phone.png"/> Connect With Me</h2>
 
 <h4>I'd Love to have a chat. Reach out to me and drop a follow.</h4>
 
