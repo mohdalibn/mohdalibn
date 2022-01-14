@@ -65,13 +65,10 @@
 
 <h2><img src="https://img.icons8.com/office/23/000000/talk-male--v1.png"/> Connect With Me</h2>
 
-<h4 align=center>I'd Love to have a chat. Reach out to me and drop a follow.</h4>
+<h4>I'd Love to have a chat. Reach out to me and drop a follow.</h4>
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohdalibn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohdalibn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](testemail@gmail.com)   -->
 
  
- <center>
-  
-  [<img src="https://img.icons8.com/color/37/000000/linkedin.png"/>](https://www.linkedin.com/in/mohdalibn/) [<img src="https://img.icons8.com/fluency/37/000000/facebook-new.png"/>](https://www.facebook.com/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/instagram-new.png"/>](https://www.instagram.com/mohdalibn) [<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/34/000000/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-duo-tal-revivo.png"/>](https://codepen.io/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/gmail-new.png"/>](mohdalimarketingservice@mgmail.com)
+ [<img src="https://img.icons8.com/color/37/000000/linkedin.png"/>](https://www.linkedin.com/in/mohdalibn/) [<img src="https://img.icons8.com/fluency/37/000000/facebook-new.png"/>](https://www.facebook.com/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/instagram-new.png"/>](https://www.instagram.com/mohdalibn) [<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/34/000000/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-duo-tal-revivo.png"/>](https://codepen.io/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/gmail-new.png"/>](mohdalimarketingservice@mgmail.com)
 
-</center>
