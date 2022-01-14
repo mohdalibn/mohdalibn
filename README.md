@@ -2,7 +2,7 @@
 
 <body style="background:black"></body>
 
-# MOHD ALI BIN NASER 
+# Mohd Ali Bin Naser 
 ![I am an experienced Self-taught Programmer](https://github.com/mohdalibn/mohdalibn/blob/main/Github%20Profile%20Banner.png)
 
 
