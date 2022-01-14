@@ -1,7 +1,7 @@
 
 ![](https://github.com/mohdalibn/mohdalibn/blob/main/Github%20Profile%20Banner.png)
 
-<h2 style="color:#8b3dff"><img src="https://img.icons8.com/office/30/000000/user.png"/> About Me</h2>
+<h2 style="color:#8b3dff"><img src="https://img.icons8.com/office/20/000000/user.png"/> About Me</h2>
 
 I am an experienced self-taught programmer and am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my skills to work on interesting projects.
 
@@ -10,7 +10,7 @@ I am an experienced self-taught programmer and am currently working towards my B
 - 👨‍💻 Coding Experience: 3+ years
 - 📚 Spoken Languages: English, Bengali, Hindi
 
-<h2>Technical Skills</h2>
+<h2><img src="https://img.icons8.com/cotton/20/000000/technical-support.png"/> Technical Skills</h2>
 
 <h4>Programming Languages</h4>
 
@@ -63,7 +63,7 @@ I am an experienced self-taught programmer and am currently working towards my B
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<h2>Connect With Me</h2>
+<h2><img src="https://img.icons8.com/color/20/000000/phone.png"/> Connect With Me</h2>
 
 <h4>I'd Love to have a chat. Reach out to me and drop a follow.</h4>
 
