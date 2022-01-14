@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Mohd Ali Bin Naser
+### Hi, I'm, 
+### I'm Mohd Ali Bin Naser
 #### I am an experienced Self-taught Programmer
 ![I am an experienced Self-taught Programmer](https://media-exp1.licdn.com/dms/image/C5616AQE0IZHmOExOQQ/profile-displaybackgroundimage-shrink_200_800/0/1634066032139?e=1647475200&v=beta&t=XeX_AsUL8e1I_eRPNolqeW3z5DBmmEBWruBPjf49F40)
 
