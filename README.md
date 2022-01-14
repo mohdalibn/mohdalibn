@@ -63,7 +63,7 @@ I am an experienced self-taught programmer and am currently working towards my B
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<h2><img src="https://img.icons8.com/office/25/000000/talk-male--v1.png"/> Connect With Me</h2>
+<h2><img src="https://img.icons8.com/office/20/000000/talk-male--v1.png"/> Connect With Me</h2>
 
 <h4>I'd Love to have a chat. Reach out to me and drop a follow.</h4>
 
