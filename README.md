@@ -1,4 +1,3 @@
-<script src="https://kit.fontawesome.com/622faf473b.js" crossorigin="anonymous"></script>
 
 ![](https://github.com/mohdalibn/mohdalibn/blob/main/Github%20Profile%20Banner.png)
 
@@ -69,5 +68,5 @@ I'd Love to have a chat. Reach out to me through my socials.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohdalibn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohdalibn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](testemail@gmail.com)  
 
 
-<i class="fab fa-facebook"></i>
+<img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/>
 
