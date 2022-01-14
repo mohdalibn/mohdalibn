@@ -8,7 +8,7 @@ I am an experienced self-taught programmer and am currently working towards my B
 - 👤 **Pronouns**: He/Him
 - 📈 **Current Progress**: Learning Flutter App Development 
 - 👨‍💻 **Coding Experience**: 3+ years
-- 📚 **Spoken Languages**: English (Highly Proficient), Bengali (Native), Hindi (Moderately Proficient)
+- 📚 **Spoken Languages**: English, Bengali, Hindi
 
 <h2><img src="https://img.icons8.com/cotton/25/000000/technical-support.png"/> Technical Skills</h2>
 
