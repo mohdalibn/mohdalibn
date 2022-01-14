@@ -5,12 +5,7 @@
 <h2 style="color:#8b3dff">About Me</h2>
 I am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on applicable personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my Machine Learning and Data Science Skills to work on challenging projects.
 
-
-```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-```
+<h2>Technical Skills</h2>
 
 Skills: Python / C++ / JS / HTML / CSS
 
