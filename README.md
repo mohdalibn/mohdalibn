@@ -15,10 +15,16 @@ I am an experienced self-taught programmer and am currently working towards my B
 
 <h3>𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘</h3>
 
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+<h3>𝖂𝖊𝖇 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙</h3>
+- 
+
+<h3>𝕸𝖆𝖈𝖍𝖎𝖓𝖊 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 & 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝖁𝖎𝖘𝖎𝖔𝖓</h3>
+
+<h3>𝕬𝖕𝖕 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙</h3>
 
 <h2>Connect With Me</h2>
 
