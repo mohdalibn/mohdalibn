@@ -5,7 +5,7 @@
 # MOHD ALI BIN NASER 
 ### I'm Mohd Ali Bin Naser
 #### I am an experienced Self-taught Programmer
-![I am an experienced Self-taught Programmer(https://media-exp1.licdn.com/dms/image/C5616AQE0IZHmOExOQQ/profile-displaybackgroundimage-shrink_200_800/0/1634066032139?e=1647475200&v=beta&t=XeX_AsUL8e1I_eRPNolqeW3z5DBmmEBWruBPjf49F40)
+![I am an experienced Self-taught Programmer](https://media-exp1.licdn.com/dms/image/C5616AQE0IZHmOExOQQ/profile-displaybackgroundimage-shrink_200_800/0/1634066032139?e=1647475200&v=beta&t=XeX_AsUL8e1I_eRPNolqeW3z5DBmmEBWruBPjf49F40)
 
 I am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on applicable personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my Machine Learning and Data Science Skills to work on challenging projects.
 
