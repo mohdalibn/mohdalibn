@@ -4,12 +4,13 @@
 
 <h2 style="color:#8b3dff">About Me</h2>
 
-I am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on applicable personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my skills to work on interesting projects.
+I am an experienced self-taught programmer and am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on applicable personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my skills to work on interesting projects.
 
 - 😄 Pronouns: He/Him 
-- 🌱 I’m currently learning Flutter App Development 
-- 📫 How to reach me: LinkedIn 
-- 
+- 🌱 Current Progress: Learning Flutter App Development 
+- Coding Experience: 3+ years
+- Spoken Languages: English, Bengali, Hindi
+
 <h2>Technical Skills</h2>
 
 Skills: Python / C++ / JS / HTML / CSS
