@@ -67,9 +67,5 @@ I'd Love to have a chat. Reach out to me through my socials.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohdalibn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohdalibn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](testemail@gmail.com)  
 
-<img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
-<img src="https://img.icons8.com/fluency/35/000000/facebook-new.png"/>
-<img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/>
-<img src="https://img.icons8.com/ios/35/000000/codepen.png"/>
-<img src="https://img.icons8.com/fluency/35/000000/gmail-new.png"/>
+[<img src="https://img.icons8.com/color/35/000000/linkedin.png"/>](https://www.linkedin.com/in/mohdalibn/) [<img src="https://img.icons8.com/fluency/35/000000/facebook-new.png"/>](https://www.facebook.com/mohdalibn) [<img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/>](https://www.instagram.com/mohdalibn) [<img src="https://img.icons8.com/ios/35/000000/codepen.png"/>](https://codepen.io/mohdalibn) [<img src="https://img.icons8.com/fluency/35/000000/gmail-new.png"/>](mohdalimarketingservice@mgmail.com)
 
