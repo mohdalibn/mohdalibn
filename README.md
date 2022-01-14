@@ -3,7 +3,7 @@
 ![](https://github.com/mohdalibn/mohdalibn/blob/main/Github%20Profile%20Banner.png)
 
 
-I am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on applicable personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my Machine Learning and Data Science Skills to work on challenging projects.
+<p>I am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on applicable personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my Machine Learning and Data Science Skills to work on challenging projects.</p>
 
 Skills: Python / C++ / JS / HTML / CSS
 
