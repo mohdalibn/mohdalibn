@@ -12,9 +12,12 @@
 
 <h2><img src="https://img.icons8.com/cotton/25/000000/technical-support.png"/> Technical Skills</h2>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95453430/149640792-c2b2809d-2028-42d7-93f6-fdd4977035e9.gif">
 
-![Github Banner](https://user-images.githubusercontent.com/95453430/149640756-8f34f6ee-4232-4c8f-899c-04ccc4663232.png)
+<!-- ![Github Banner](https://user-images.githubusercontent.com/95453430/149640756-8f34f6ee-4232-4c8f-899c-04ccc4663232.png)
+![Github Banner Gif](https://user-images.githubusercontent.com/95453430/149640792-c2b2809d-2028-42d7-93f6-fdd4977035e9.gif) -->
+
 
 
 <h4>Programming Languages</h4>
