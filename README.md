@@ -13,6 +13,7 @@
 <h2><img src="https://img.icons8.com/cotton/25/000000/technical-support.png"/> Technical Skills</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ![Github Banner](https://user-images.githubusercontent.com/95453430/149640756-8f34f6ee-4232-4c8f-899c-04ccc4663232.png)
 
 
