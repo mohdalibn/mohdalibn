@@ -13,13 +13,14 @@
 <h2><img src="https://img.icons8.com/cotton/25/000000/technical-support.png"/> Technical Skills</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![Github Banner](https://user-images.githubusercontent.com/95453430/149640756-8f34f6ee-4232-4c8f-899c-04ccc4663232.png)
+
 
 <h4>Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
 <h4>Web Development</h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
