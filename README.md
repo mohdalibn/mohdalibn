@@ -12,6 +12,8 @@
 
 <h2><img src="https://img.icons8.com/cotton/25/000000/technical-support.png"/> Technical Skills</h2>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <h4>Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
