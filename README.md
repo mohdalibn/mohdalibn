@@ -1,8 +1,7 @@
-
+<!-- Old Banner -->
 <!-- ![](https://github.com/mohdalibn/mohdalibn/blob/main/Github%20Profile%20Banner.png) -->
 
-![New Github Banner](https://user-images.githubusercontent.com/95453430/149643377-dcf70158-126e-4454-866b-fca05fa02ca1.gif)
-
+![Ali's Github Banner](https://user-images.githubusercontent.com/95453430/149643685-5b6d131d-7547-4a72-8b71-ffe86cf6a050.gif)
 
 
 <h2 style="color:#8b3dff"><img src="https://img.icons8.com/office/20/000000/user.png"/> About Me</h2>
@@ -18,7 +17,11 @@
 
 <!-- https://user-images.githubusercontent.com/95453430/149643393-221548d4-04dd-493f-be0d-d67f1eecf416.gif -->
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif"> -->
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643700-97e628f3-64fe-4f5c-9a39-21b4710ca4ec.gif">
+
+
 
 
 <h4>Programming Languages</h4>
