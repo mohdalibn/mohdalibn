@@ -8,7 +8,7 @@
 <p>I am an experienced self-taught programmer and am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my skills to work on interesting projects.</p>
 
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdalibn&show_icons=true&locale=en&layout=compact" alt="mohdalibn" /></p> -->
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical" alt="mohdalibn" /></p>
+<p>&nbsp;<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical" alt="mohdalibn" /></p>
 
 - 👤 **Pronouns**: He/Him
 - 📈 **Current Progress**: Learning Flutter App Development 
