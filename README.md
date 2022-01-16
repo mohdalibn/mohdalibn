@@ -14,16 +14,16 @@
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdalibn&theme=radical)
   
-<span>
+  <span>
 
-<span align="left">
+  <span align="left">
   
-  - 👤 **Pronouns**: He/Him
-  - 📈 **Current Progress**: Learning Flutter App Development 
-  - 👨‍💻 **Coding Experience**: 3+ years
-  - 📚 **Spoken Languages**: English, Bengali, Hindi
+    - 👤 **Pronouns**: He/Him
+    - 📈 **Current Progress**: Learning Flutter App Development 
+    - 👨‍💻 **Coding Experience**: 3+ years
+    - 📚 **Spoken Languages**: English, Bengali, Hindi
   
-</span>
+  </span>
   
 </span>
 
