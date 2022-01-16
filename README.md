@@ -90,11 +90,11 @@
 <!-- <p>&nbsp;<img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true" alt="mohdalibn" /></p> -->
 
 <a href="#">
-  <img align="left" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=radical" alt="mohdalibn" />
+  <img align="left" width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=radical" alt="mohdalibn" />
 </a>
 
 <a href="#">
-  <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true" alt="mohdalibn" />
+  <img align="right" width="415" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true" alt="mohdalibn" />
 </a>
 
 
