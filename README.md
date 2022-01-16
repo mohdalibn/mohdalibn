@@ -7,8 +7,7 @@
 
 <p>I am an experienced self-taught programmer and am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my skills to work on interesting projects.</p>
 
-<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdalibn&show_icons=true&locale=en&layout=compact" alt="mohdalibn" /></p> -->
-<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true&hide=contribs,issues" alt="mohdalibn" /></p>
+<p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical&title_color=8B3DFF" alt="mohdalibn" /></p>
 
 - 👤 **Pronouns**: He/Him
 - 📈 **Current Progress**: Learning Flutter App Development 
@@ -84,4 +83,6 @@
  [<img src="https://img.icons8.com/color/37/000000/linkedin.png"/>](https://www.linkedin.com/in/mohdalibn/) [<img src="https://img.icons8.com/fluency/37/000000/facebook-new.png"/>](https://www.facebook.com/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/instagram-new.png"/>](https://www.instagram.com/mohdalibn) [<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/34/000000/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-duo-tal-revivo.png"/>](https://codepen.io/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/gmail-new.png"/>](mohdalimarketingservice@mgmail.com)
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical)](https://github.com/mohdalibn/mohdalibn)
+<h2><img src="https://img.icons8.com/office/23/000000/talk-male--v1.png"/> Github Statistics & Activity</h2>
+
+<p>&nbsp;<img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true" alt="mohdalibn" /></p>
