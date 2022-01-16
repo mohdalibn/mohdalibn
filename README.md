@@ -1,7 +1,8 @@
 <!-- Old Banner -->
 <!-- ![](https://github.com/mohdalibn/mohdalibn/blob/main/Github%20Profile%20Banner.png) -->
 
-![Ali's Github Banner](https://user-images.githubusercontent.com/95453430/149643685-5b6d131d-7547-4a72-8b71-ffe86cf6a050.gif)
+<!-- ![Ali's Github Banner](https://user-images.githubusercontent.com/95453430/149643685-5b6d131d-7547-4a72-8b71-ffe86cf6a050.gif) -->
+![https://user-images.githubusercontent.com/95453430/149643685-5b6d131d-7547-4a72-8b71-ffe86cf6a050.gif]()
 
 
 <h2 style="color:#8b3dff"><img src="https://img.icons8.com/office/20/000000/user.png"/> About Me</h2>
@@ -11,6 +12,7 @@
 <p align="right">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdalibn&theme=radical)
+  
   
 <p>
 
