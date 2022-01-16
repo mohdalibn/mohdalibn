@@ -19,7 +19,7 @@
 
 <!-- <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif"> -->
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643700-97e628f3-64fe-4f5c-9a39-21b4710ca4ec.gif">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/95453430/149643700-97e628f3-64fe-4f5c-9a39-21b4710ca4ec.gif">
 
 
 
