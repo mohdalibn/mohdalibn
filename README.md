@@ -3,12 +3,7 @@
 
 <!-- <h2 style="color:#8b3dff"><img src="https://img.icons8.com/office/20/000000/user.png"/> About Me</h2> -->
 
-![Ali's Github Banner](https://user-images.githubusercontent.com/95453430/149643685-5b6d131d-7547-4a72-8b71-ffe86cf6a050.gif)
-
 ![My Github Banner-1](https://user-images.githubusercontent.com/95453430/149670684-7a8b022e-d50b-44d4-9340-aa9b33e355b0.png)
-
-![](new-github-banner-2_8IFqh4xZ.gif)
-
 
 
 <p>I am an experienced self-taught programmer and am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my skills to work on interesting projects.</p>
