@@ -18,7 +18,7 @@
 
 <!-- https://user-images.githubusercontent.com/95453430/149643393-221548d4-04dd-493f-be0d-d67f1eecf416.gif -->
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
 
 
 <h4>Programming Languages</h4>
