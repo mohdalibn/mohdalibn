@@ -84,5 +84,6 @@
  [<img src="https://img.icons8.com/color/37/000000/linkedin.png"/>](https://www.linkedin.com/in/mohdalibn/) [<img src="https://img.icons8.com/fluency/37/000000/facebook-new.png"/>](https://www.facebook.com/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/instagram-new.png"/>](https://www.instagram.com/mohdalibn) [<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/34/000000/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-duo-tal-revivo.png"/>](https://codepen.io/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/gmail-new.png"/>](mohdalimarketingservice@mgmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical)](https://github.com/mohdalibn/mohdalibn)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical)](https://github.com/mohdalibn/mohdalibn) -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdalibn&show_icons=true&locale=en&layout=compact" alt="mohdalibn" /></p>
