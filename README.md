@@ -1,5 +1,9 @@
 
-![](https://github.com/mohdalibn/mohdalibn/blob/main/Github%20Profile%20Banner.png)
+<!-- ![](https://github.com/mohdalibn/mohdalibn/blob/main/Github%20Profile%20Banner.png) -->
+
+![New Github Banner](https://user-images.githubusercontent.com/95453430/149643377-dcf70158-126e-4454-866b-fca05fa02ca1.gif)
+
+
 
 <h2 style="color:#8b3dff"><img src="https://img.icons8.com/office/20/000000/user.png"/> About Me</h2>
 
@@ -13,7 +17,11 @@
 <h2><img src="https://img.icons8.com/cotton/25/000000/technical-support.png"/> Technical Skills</h2>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/95453430/149640792-c2b2809d-2028-42d7-93f6-fdd4977035e9.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/95453430/149640792-c2b2809d-2028-42d7-93f6-fdd4977035e9.gif"> -->
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/95453430/149643393-221548d4-04dd-493f-be0d-d67f1eecf416.gif">
+
+
 
 <h4>Programming Languages</h4>
 
