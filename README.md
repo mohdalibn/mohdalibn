@@ -5,6 +5,8 @@
 
 ![Ali's Github Banner](https://user-images.githubusercontent.com/95453430/149643685-5b6d131d-7547-4a72-8b71-ffe86cf6a050.gif)
 
+
+
 <p>I am an experienced self-taught programmer and am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my skills to work on interesting projects.</p>
 
 <p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical&title_color=8B3DFF" alt="mohdalibn" /></p>
@@ -85,4 +87,14 @@
  
 <h2><img src="https://img.icons8.com/office/23/000000/talk-male--v1.png"/> Github Statistics & Activity</h2>
 
-<p>&nbsp;<img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true" alt="mohdalibn" /></p>
+<!-- <p>&nbsp;<img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true" alt="mohdalibn" /></p> -->
+
+<a href="#">
+  <img align="left" width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=radical" alt="mohdalibn" />
+</a>
+
+<a href="#">
+  <img align="right" width="460" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true" alt="mohdalibn" />
+</a>
+
+
