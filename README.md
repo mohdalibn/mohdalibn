@@ -86,6 +86,10 @@
  
 [<img width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img width="30" src="icons/discord.svg"/>](@VORTEXGAMING571#0160) [<img width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
 
+
+<!-- ![Python](https://img.shields.io/badge/VORTEXGAMING571-0160-5865F2?style=for-the-badge&logo=Discord)
+![Python](https://img.shields.io/badge/Enquiry-mbnmarketingservice@gmail.com-4285F4?style=for-the-badge&logo=Google) -->
+
 <h2><img width="25" src="icons/transaction.svg"/> Github Statistics & Activity</h2>
 
 <!-- <p>&nbsp;<img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true" alt="mohdalibn" /></p> -->
