@@ -25,24 +25,21 @@
 
 <h4 align="left">I'd love to have a chat. Reach out to me and drop a follow.</h4>
 
-[<img align="center" width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img align="center" width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img align="center" width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img align="center" width="30" src="icons/discord.svg"/>](@VORTEXGAMING571#0160) [<img align="center" width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
+[<img align="center" width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img align="center" width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img align="center" width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img align="center" width="30" src="icons/discord.svg"/>](ProfileInfo.md) [<img align="center" width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
 
 <!-- <img align="center" width="225" src="https://img.shields.io/static/v1?label=Enquiry&message=test@gmail.com&color=8B3DFF&style=flate&logo=Gmail"/> -->
 
-<img align="center" width="225" src="https://img.shields.io/static/v1?label=VORTEXGAMING571&message=0160&color=8B3DFF&style=flat&logo=Discord"/>
+<a href="ProfileInfo.md"><img align="center" width="225" src="https://img.shields.io/static/v1?label=VORTEXGAMING571&message=0160&color=8B3DFF&style=flat&logo=Discord"/></a>
 
-<img align="center" width="180" src="https://img.shields.io/badge/test@gmail.com-%23D00000.svg?style=flat&logo=Gmail&logoColor=white"/>
+<a href="mailto:mbnmarketingservice@gmail.com"><img align="center" width="250" src="https://img.shields.io/badge/mbnmarketingservice@gmail.com-%23D00000.svg?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<!-- <img width="170" src="https://img.shields.io/static/v1?label=Portfolio&message=Website&color=black&style=flat&logo=Internet-Explorer&labelColor=green"/> -->
+<a href="https://codepen.io/mohdalibn"><img align="center" src="https://img.shields.io/badge/View%20Profile-white?label=CodePen&message=ViewProfile&style=for-the-badge&logo=codepen&logoColor=black"/></a>
 
-![PyCharm](https://img.shields.io/badge/Website-143?label=Portfolio&style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+<a href="ProfileInfo.md"><img align="center" src="https://img.shields.io/badge/Website-143?label=Portfolio&style=for-the-badge&logo=Internet-Explorer&logoColor=black&color=black&labelColor=green"/></a>
 
 
 <h2 align="right"><img width="25" src="icons/laptop-cloud.svg"/> Technical Skills</h2>
 
-
-<p align="right">
-  
 <br>
 <br>
   
@@ -50,9 +47,6 @@
   <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=midnight-purple&count_private=true" alt="mohdalibn" />
 </a>
     
-
-<!-- <br> -->
-<!-- <br> -->
 <!-- <br> -->
   
 <h4>Programming Languages</h4>
@@ -111,7 +105,6 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-</p>
 
 <!-- <h2><img width="25" src="icons/transaction.svg"/> Github Statistics & Activity</h2> -->
 
