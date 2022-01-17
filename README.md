@@ -17,12 +17,44 @@
 - 📚 **Spoken Languages**: English, Bengali, Hindi
   
 
-<h2><img width="25" src="icons/laptop-cloud.svg"/> Technical Skills</h2>
+<h2><img width="23" src="icons/message.svg"/> Connect With Me</h2>
 
-<!-- https://user-images.githubusercontent.com/95453430/149643393-221548d4-04dd-493f-be0d-d67f1eecf416.gif -->
+<img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
+<!-- <br> -->
 
+<h4 align="left">I'd love to have a chat. Reach out to me and drop a follow.</h4>
+
+[<img align="center" width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img align="center" width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img align="center" width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img align="center" width="30" src="icons/discord.svg"/>](@VORTEXGAMING571#0160) [<img align="center" width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
+
+<!-- <img align="center" width="225" src="https://img.shields.io/static/v1?label=Enquiry&message=test@gmail.com&color=8B3DFF&style=flate&logo=Gmail"/> -->
+
+<img align="center" width="225" src="https://img.shields.io/static/v1?label=VORTEXGAMING571&message=0160&color=8B3DFF&style=flat&logo=Discord"/>
+
+<img align="center" width="180" src="https://img.shields.io/badge/test@gmail.com-%23D00000.svg?style=flat&logo=Gmail&logoColor=white"/>
+
+<!-- <img width="170" src="https://img.shields.io/static/v1?label=Portfolio&message=Website&color=black&style=flat&logo=Internet-Explorer&labelColor=green"/> -->
+
+![PyCharm](https://img.shields.io/badge/Website-143?label=Portfolio&style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+
+<h2 align="right"><img width="25" src="icons/laptop-cloud.svg"/> Technical Skills</h2>
+
+
+<p align="right">
+  
+<br>
+<br>
+  
+<a href="#">
+  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=midnight-purple&count_private=true" alt="mohdalibn" />
+</a>
+    
+
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+  
 <h4>Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,6 +68,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  
+<a href="#">
+  <img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia" alt="mohdalibn" />
+</a>
   
 <h4>Machine Learning & Computer Vision</h4>
 
@@ -75,36 +111,18 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<h2><img width="23" src="icons/message.svg"/> Connect With Me</h2>
+</p>
 
-<h4>I'd love to have a chat. Reach out to me and drop a follow.</h4>
-
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohdalibn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohdalibn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mohdalibn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](testemail@gmail.com)   -->
-
- 
-<!--  [<img src="https://img.icons8.com/color/37/000000/linkedin.png"/>](https://www.linkedin.com/in/mohdalibn/) [<img src="https://img.icons8.com/fluency/37/000000/facebook-new.png"/>](https://www.facebook.com/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/instagram-new.png"/>](https://www.instagram.com/mohdalibn) [<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/34/000000/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-duo-tal-revivo.png"/>](https://codepen.io/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/gmail-new.png"/>](mohdalimarketingservice@mgmail.com) -->
- 
-[<img width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img width="30" src="icons/discord.svg"/>](@VORTEXGAMING571#0160) [<img width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
-
-<img width="225" src="https://img.shields.io/static/v1?label=Enquiry&message=mbn@gmail.com&color=8B3DFF&style=flate&logo=Gmail"/>
-
-<img width="225" src="https://img.shields.io/static/v1?label=VORTEXGAMING571&message=0160&color=8B3DFF&style=flat&logo=Discord"/>
-
-<img width="170" src="https://img.shields.io/static/v1?label=Portfolio&message=Website&color=8B3DFF&style=flat&logo=Internet-Explorer"/>
-
-<!-- ![Python](https://img.shields.io/badge/VORTEXGAMING571-0160-5865F2?style=for-the-badge&logo=Discord)
-![Python](https://img.shields.io/badge/Enquiry-mbnmarketingservice@gmail.com-4285F4?style=for-the-badge&logo=Google) -->
-
-<h2><img width="25" src="icons/transaction.svg"/> Github Statistics & Activity</h2>
+<!-- <h2><img width="25" src="icons/transaction.svg"/> Github Statistics & Activity</h2> -->
 
 <!-- <p>&nbsp;<img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=radical&count_private=true" alt="mohdalibn" /></p> -->
 
-<a href="#">
+<!-- <a href="#">
   <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia" alt="mohdalibn" />
-</a>
+</a> -->
 
-<a href="#">
+<!-- <a href="#">
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=midnight-purple&count_private=true" alt="mohdalibn" />
 </a>
-
+ -->
 
