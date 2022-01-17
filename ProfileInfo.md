@@ -1,7 +1,7 @@
 
 ### Email - mbnmarketingservice@gmail.com
 
-### Dicord - @VORTEXGAMING571 #0160
+### Discord - @VORTEXGAMING571 #0160
 
 ### Instagram - @mohdalibn
 
