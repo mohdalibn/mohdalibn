@@ -40,7 +40,7 @@
 
 <h2 align="right"><img width="25" src="icons/laptop-cloud.svg"/> Technical Skills</h2>
 
-<br>
+<!-- <br> -->
   
 <a href="#">
   <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=midnight-purple&count_private=true" alt="mohdalibn" />
