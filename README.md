@@ -86,6 +86,11 @@
  
 [<img width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img width="30" src="icons/discord.svg"/>](@VORTEXGAMING571#0160) [<img width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
 
+<img width="225" src="https://img.shields.io/static/v1?label=Enquiry&message=mbn@gmail.com&color=8B3DFF&style=flate&logo=Gmail"/>
+
+<img width="225" src="https://img.shields.io/static/v1?label=VORTEXGAMING571&message=0160&color=8B3DFF&style=flat&logo=Discord"/>
+
+<img width="170" src="https://img.shields.io/static/v1?label=Portfolio&message=Website&color=8B3DFF&style=flat&logo=Internet-Explorer"/>
 
 <!-- ![Python](https://img.shields.io/badge/VORTEXGAMING571-0160-5865F2?style=for-the-badge&logo=Discord)
 ![Python](https://img.shields.io/badge/Enquiry-mbnmarketingservice@gmail.com-4285F4?style=for-the-badge&logo=Google) -->
