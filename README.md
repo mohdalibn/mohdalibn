@@ -21,7 +21,7 @@
 
 <img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
 
-<!-- <br> -->
+<br>
 
 <h4 align="left">I'd love to have a chat. Reach out to me and drop a follow.</h4>
 
