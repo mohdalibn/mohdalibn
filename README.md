@@ -19,7 +19,7 @@
 
 <h2><img width="23" src="icons/message.svg"/> Connect With Me</h2>
 
-<img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
+<img align="left" alt="Coding" width="360" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
 
 <br>
 
@@ -62,9 +62,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   
-<a href="#">
-  <img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia" alt="mohdalibn" />
-</a>
   
 <h5>MACHINE LEARNING & COMPUTER VISION</h5>
 
@@ -87,6 +84,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<a href="#">
+  <img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia" alt="mohdalibn" />
+</a>
+
+
 <h5>IDE</h5>
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -96,11 +98,9 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 <!-- ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) -->
 
-
 <h5>OPERATING SYSTEMS</h5>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
