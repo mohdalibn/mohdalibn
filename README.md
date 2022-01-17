@@ -84,7 +84,7 @@
  
 <!--  [<img src="https://img.icons8.com/color/37/000000/linkedin.png"/>](https://www.linkedin.com/in/mohdalibn/) [<img src="https://img.icons8.com/fluency/37/000000/facebook-new.png"/>](https://www.facebook.com/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/instagram-new.png"/>](https://www.instagram.com/mohdalibn) [<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/34/000000/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-duo-tal-revivo.png"/>](https://codepen.io/mohdalibn) [<img src="https://img.icons8.com/fluency/37/000000/gmail-new.png"/>](mohdalimarketingservice@mgmail.com) -->
  
-[<img width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img width="30" src="icons/discord.svg"/>](@VORTEXGAMING571#0160) [<img width="30" src="icons/envelope.svg"/>](mbnmarketingservice@gmail.com) 
+[<img width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img width="30" src="icons/discord.svg"/>](@VORTEXGAMING571#0160) [<img width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
 
 <h2><img width="25" src="icons/transaction.svg"/> Github Statistics & Activity</h2>
 
