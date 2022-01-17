@@ -46,7 +46,7 @@
   <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=midnight-purple&count_private=true" alt="mohdalibn" />
 </a>
     
-<!-- <br> -->
+<br>
   
 <h5>PROGRAMMING LANGUAGES</h5>
 
