@@ -85,7 +85,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <a href="#">
-  <img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia" alt="mohdalibn" />
+  <img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn" />
 </a>
 
 
