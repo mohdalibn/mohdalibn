@@ -1,9 +1,3 @@
-<!-- Old Banner -->
-<!-- ![](https://github.com/mohdalibn/mohdalibn/blob/main/Github%20Profile%20Banner.png) -->
-
-<!-- <h2 style="color:#8b3dff"><img src="https://img.icons8.com/office/20/000000/user.png"/> About Me</h2> -->
-
-<!-- ![My Github Banner-1](https://user-images.githubusercontent.com/95453430/149670684-7a8b022e-d50b-44d4-9340-aa9b33e355b0.png) -->
 
 ![Mohd Ali Bin Naser](MbnGithubBanner.gif)
 
@@ -27,15 +21,15 @@
 
 [<img align="center" width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img align="center" width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img align="center" width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img align="center" width="30" src="icons/discord.svg"/>](ProfileInfo.md) [<img align="center" width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
 
-<!-- <img align="center" width="225" src="https://img.shields.io/static/v1?label=Enquiry&message=test@gmail.com&color=8B3DFF&style=flate&logo=Gmail"/> -->
+<a href="#"><img align="right" src="https://img.icons8.com/external-bearicons-gradient-bearicons/200/000000/external-Follow-social-media-bearicons-gradient-bearicons.png"/></a>
+
+<a href="mailto:mbnmarketingservice@gmail.com"><img align="center" width="225" src="https://img.shields.io/badge/mbnmarketingservice@gmail.com-%23D00000.svg?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <a href="ProfileInfo.md"><img align="center" width="225" src="https://img.shields.io/static/v1?label=VORTEXGAMING571&message=0160&color=8B3DFF&style=flat&logo=Discord"/></a>
 
-<a href="mailto:mbnmarketingservice@gmail.com"><img align="center" width="250" src="https://img.shields.io/badge/mbnmarketingservice@gmail.com-%23D00000.svg?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://codepen.io/mohdalibn"><img align="center" width="225" src="https://img.shields.io/badge/View%20Profile-white?label=CodePen&message=ViewProfile&style=for-the-badge&logo=codepen&logoColor=black"/></a>
 
-<a href="https://codepen.io/mohdalibn"><img align="center" src="https://img.shields.io/badge/View%20Profile-white?label=CodePen&message=ViewProfile&style=for-the-badge&logo=codepen&logoColor=black"/></a>
-
-<a href="ProfileInfo.md"><img align="center" src="https://img.shields.io/badge/Website-143?label=Portfolio&style=for-the-badge&logo=Internet-Explorer&logoColor=black&color=black&labelColor=green"/></a>
+<a href="ProfileInfo.md"><img align="center" width="225" src="https://img.shields.io/badge/Website-143?label=Portfolio&style=for-the-badge&logo=Internet-Explorer&logoColor=black&color=black&labelColor=green"/></a>
 
 
 <h2 align="right"><img width="25" src="icons/laptop-cloud.svg"/> Technical Skills</h2>
@@ -70,8 +64,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=for-the-badge&logo=OpenAI-Gym&logoColor=white)
-<!-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) -->
-<!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 
 
 <h5>APP DEVELOPMENT</h5>
@@ -85,7 +77,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <a href="#">
-  <img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn" />
+  <img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn" />
 </a>
 
 
@@ -96,7 +88,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-<!-- ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) -->
+
 
 <h5>OPERATING SYSTEMS</h5>
 
