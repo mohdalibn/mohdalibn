@@ -23,13 +23,13 @@
 
 <a href="#"><img align="right" src="https://img.icons8.com/external-bearicons-gradient-bearicons/200/000000/external-Follow-social-media-bearicons-gradient-bearicons.png"/></a>
 
-<a href="mailto:mbnmarketingservice@gmail.com"><img align="center" width="225" src="https://img.shields.io/badge/mbnmarketingservice@gmail.com-%23D00000.svg?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mbnmarketingservice@gmail.com"><img align="center" width="200" src="https://img.shields.io/badge/mabnofficial@gmail.com-%23D00000.svg?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<a href="ProfileInfo.md"><img align="center" width="225" src="https://img.shields.io/static/v1?label=VORTEXGAMING571&message=0160&color=8B3DFF&style=flat&logo=Discord"/></a>
+<a href="ProfileInfo.md"><img align="center" width="200" src="https://img.shields.io/static/v1?label=VORTEXGAMING571&message=0160&color=8B3DFF&style=flat&logo=Discord"/></a>
 
-<a href="https://codepen.io/mohdalibn"><img align="center" width="225" src="https://img.shields.io/badge/View%20Profile-white?label=CodePen&message=ViewProfile&style=for-the-badge&logo=codepen&logoColor=black"/></a>
+<a href="https://codepen.io/mohdalibn"><img align="center" width="200" src="https://img.shields.io/badge/View%20Profile-white?label=CodePen&message=ViewProfile&style=for-the-badge&logo=codepen&logoColor=black"/></a>
 
-<a href="ProfileInfo.md"><img align="center" width="225" src="https://img.shields.io/badge/Website-143?label=Portfolio&style=for-the-badge&logo=Internet-Explorer&logoColor=black&color=black&labelColor=green"/></a>
+<a href="ProfileInfo.md"><img align="center" width="200" src="https://img.shields.io/badge/Website-143?label=Portfolio&style=for-the-badge&logo=Internet-Explorer&logoColor=black&color=black&labelColor=green"/></a>
 
 
 <h2 align="right"><img width="25" src="icons/laptop-cloud.svg"/> Technical Skills</h2>
