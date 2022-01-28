@@ -3,7 +3,7 @@
 
 <h3><img width="30" src="icons/discord-simpleicons.svg"/> Discord - @VORTEXGAMING571 #0160</h3>
 
-<h3><img width="30" src="icons/linkedin-simpleicons.svg"/> Instagram - @mohdalibn - https://linkedin.com/mohdalibn </h3>
+<h3><img width="30" src="icons/linkedin-simpleicons.svg"/> Linkedin - @mohdalibn - https://linkedin.com/mohdalibn </h3>
 
 <h3><img width="30" src="icons/instagram-simpleicons.svg"/> Instagram - @mohdalibn - https://instagram.com/mohdalibn </h3>
 
