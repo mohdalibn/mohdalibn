@@ -1,5 +1,5 @@
 
-<h3><img style="color:blue" width="30" src="icons/gmail.svg"/> Email - mbnmarketingservice@gmail.com</h3>
+<h3><img style="color:blue" width="30" src="icons/gmail.svg"/> Email - mabnofficial@gmail.com</h3>
 
 <h3><img width="30" src="icons/discord-simpleicons.svg"/> Discord - @VORTEXGAMING571 #0160</h3>
 
