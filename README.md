@@ -3,7 +3,9 @@
 
 <p>I am an experienced self-taught programmer and am currently working towards my Bachelor's degree in Computer Science from the Memorial University of Newfoundland in NL, Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my skills to work on interesting projects.</p>
 
-<p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical" alt="mohdalibn" /></p>
+<!-- <p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical" alt="mohdalibn" /></p> -->
+<p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn"/></p>
+
 
 - 👤 **Pronouns**: He/Him
 - 📈 **Current Progress**: Learning Flutter App Development 
@@ -13,9 +15,7 @@
 
 <h2><img width="23" src="icons/message.svg"/> Connect With Me</h2>
 
-<!-- <img align="left" alt="Coding" width="360" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif"> -->
-
-<img align="left" width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn"/>
+<img align="left" alt="Coding" width="360" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
 
 <br>
 
@@ -80,8 +80,7 @@
 
 <a href="#">
 <!--   <img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn" /> -->
-  
-  <img align="left" alt="Coding" width="500" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
+  <img align="right" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical" alt="mohdalibn" />
 </a>
 
 
