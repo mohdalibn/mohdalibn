@@ -14,6 +14,7 @@
 <h2><img width="23" src="icons/message.svg"/> Connect With Me</h2>
 
 <!-- <img align="left" alt="Coding" width="360" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif"> -->
+
 <img align="left" width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn"/>
 
 <br>
@@ -79,6 +80,7 @@
 
 <a href="#">
 <!--   <img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn" /> -->
+  
   <img align="left" alt="Coding" width="500" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
 </a>
 
