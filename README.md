@@ -23,7 +23,7 @@
 
 [<img align="center" width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img align="center" width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img align="center" width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img align="center" width="30" src="icons/discord.svg"/>](ProfileInfo.md) [<img align="center" width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
 
-<a href="#"><img align="right" width="175" src="https://img.icons8.com/external-bearicons-gradient-bearicons/200/000000/external-Follow-social-media-bearicons-gradient-bearicons.png"/></a>
+<a href="#"><img align="right" width="150" src="https://img.icons8.com/external-bearicons-gradient-bearicons/200/000000/external-Follow-social-media-bearicons-gradient-bearicons.png"/></a>
 
 <a href="mailto:mbnmarketingservice@gmail.com"><img align="center" width="200" src="https://img.shields.io/badge/mabnofficial@gmail.com-%23D00000.svg?style=flat&logo=Gmail&logoColor=white"/></a>
 
