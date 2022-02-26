@@ -80,7 +80,7 @@
 
 <a href="#">
 <!--   <img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn" /> -->
-  <img align="right" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical" alt="mohdalibn" />
+  <img align="right" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=algolia&border_radius=0" alt="mohdalibn" />
 </a>
 
 
