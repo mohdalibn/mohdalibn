@@ -6,14 +6,16 @@
 <!-- <p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical" alt="mohdalibn" /></p> -->
 <p><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn"/></p>
 
+<!-- - 📈 **Current Progress**: Learning Flutter App Development  -->
 
 - 👤 **Pronouns**: He/Him
-- 📈 **Current Progress**: Learning Flutter App Development 
 - 👨‍💻 **Coding Experience**: 3+ years
 - 📚 **Spoken Languages**: English, Bengali, Hindi
   
 
-<h2><img width="23" src="icons/message.svg"/> Connect With Me</h2>
+<!-- <h2><img width="23" src="icons/message.svg"/> Connect With Me</h2> -->
+# ![connect-with-me](https://user-images.githubusercontent.com/95453430/156881297-9bdd8e89-8dd5-4588-81dc-5dae88d28b0b.svg)
+
 
 <img align="left" alt="Coding" width="360" src="https://user-images.githubusercontent.com/95453430/149643466-8243e600-1939-4f16-a640-46d901ca51b1.gif">
 
@@ -34,7 +36,7 @@
 <a href="ProfileInfo.md"><img align="center" width="200" src="https://img.shields.io/badge/Website-143?label=Portfolio&style=for-the-badge&logo=Internet-Explorer&logoColor=black&color=black&labelColor=green"/></a>
 
 
-<h2 align="right"><img width="25" src="icons/laptop-cloud.svg"/> Technical Skills</h2>
+<h2 align="right"><img src="https://user-images.githubusercontent.com/95453430/156882356-6a0efb16-ef5b-4273-974d-9d0816b34e71.svg"/></h2>
 
 <!-- <br> -->
   
