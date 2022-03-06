@@ -41,10 +41,14 @@
 <!-- <br> -->
   
 <a href="#">
-  <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=algolia&border_radius=0" alt="mohdalibn" />
-</a>
-   
-<a href="#">
   <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=mohdalibn&show_icons=true&locale=en&theme=midnight-purple&count_private=true" alt="mohdalibn" />
 </a>
+
+<br>
+
+<a href="#">
+  <img align="left" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=algolia&border_radius=0" alt="mohdalibn" />
+</a>
+   
+
     
