@@ -51,4 +51,44 @@
 </a>
    
 
-    
+<!-- Favourite Projects -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="left"><img src="https://user-images.githubusercontent.com/95453430/156924580-49705a37-995a-4015-b85a-7c9d56de0279.svg"/></h2>
+
+<br>
+
+
+<p>
+  <img width="400" src="https://user-images.githubusercontent.com/95453430/156926877-d98d7aa6-8feb-4f23-999f-4ed18ffe02e0.png" />
+  <img align="right" width="400" src="https://user-images.githubusercontent.com/95453430/156926147-143a98b2-95cd-49ea-b8ec-3dfb31dc86fb.png" />
+   <a href="https://github.com/YuriDevAT/sos-animals">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=airpods-replica-site&theme=radical" />
+  </a>
+    <a href="https://github.com/YuriDevAT/smart-shopping-list">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=flappy-bird-game-ai&theme=radical" />
+  </a>
+</p>  
+  
+  
+<br>
+
+
+<p>
+  <img width="400" src="https://user-images.githubusercontent.com/95453430/156926231-a864c3f4-1fb2-4fb7-83a3-52b0894a11ea.png" />
+  <img width="400" align="right" src="https://user-images.githubusercontent.com/95453430/156927186-d247a2c0-5854-450d-b49b-4ff44f48657b.png" />
+    <a href="https://github.com/YuriDevAT/nikki-my-diary">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=chrome-dinosaur-game-ai&theme=radical" />
+</a>
+<a href="https://github.com/YuriDevAT/instagram-clone">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=glassmorphism-product-cards&theme=radical" />
+</a>
+</p>  
+  
+ 
