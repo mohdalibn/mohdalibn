@@ -36,7 +36,7 @@
 <a href="ProfileInfo.md"><img align="center" width="200" src="https://img.shields.io/badge/Website-143?label=Portfolio&style=for-the-badge&logo=Internet-Explorer&logoColor=black&color=black&labelColor=green"/></a>
 
 
-<h2 align="right"><img src="https://user-images.githubusercontent.com/95453430/156882356-6a0efb16-ef5b-4273-974d-9d0816b34e71.svg"/></h2>
+<h2 align="right"><img src="https://user-images.githubusercontent.com/95453430/156928766-3c064a2d-12e7-4f24-bc64-14782263c4ba.svg"/></h2>
 
 <!-- <br> -->
   
