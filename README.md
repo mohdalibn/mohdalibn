@@ -47,7 +47,7 @@
 <br>
 
 <a href="#">
-  <img align="left" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=algolia&border_radius=0" alt="mohdalibn" />
+  <img align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=algolia&border_radius=0" alt="mohdalibn" />
 </a>
    
 
