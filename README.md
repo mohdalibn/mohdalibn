@@ -67,13 +67,13 @@
 
 
 <p>
-  <img width="400" src="https://user-images.githubusercontent.com/95453430/156926877-d98d7aa6-8feb-4f23-999f-4ed18ffe02e0.png" />
-  <img align="right" width="400" src="https://user-images.githubusercontent.com/95453430/156926147-143a98b2-95cd-49ea-b8ec-3dfb31dc86fb.png" />
+  <img width="370" src="https://user-images.githubusercontent.com/95453430/156926877-d98d7aa6-8feb-4f23-999f-4ed18ffe02e0.png" />
+  <img align="right" width="370" src="https://user-images.githubusercontent.com/95453430/156926147-143a98b2-95cd-49ea-b8ec-3dfb31dc86fb.png" />
    <a href="https://github.com/mohdalibn/airpods-replica-site">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=airpods-replica-site&theme=radical" />
+    <img align="" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=airpods-replica-site&theme=radical" />
   </a>
     <a href="https://github.com/mohdalibn/flappy-bird-game-ai">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=flappy-bird-game-ai&theme=radical" />
+    <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=flappy-bird-game-ai&theme=radical" />
   </a>
 </p>  
   
@@ -82,13 +82,13 @@
 
 
 <p>
-  <img width="400" src="https://user-images.githubusercontent.com/95453430/156926231-a864c3f4-1fb2-4fb7-83a3-52b0894a11ea.png" />
-  <img width="400" align="right" src="https://user-images.githubusercontent.com/95453430/156927186-d247a2c0-5854-450d-b49b-4ff44f48657b.png" />
+  <img width="370" src="https://user-images.githubusercontent.com/95453430/156926231-a864c3f4-1fb2-4fb7-83a3-52b0894a11ea.png" />
+  <img width="370" align="right" src="https://user-images.githubusercontent.com/95453430/156927186-d247a2c0-5854-450d-b49b-4ff44f48657b.png" />
     <a href="https://github.com/mohdalibn/chrome-dinosaur-game-ai">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=chrome-dinosaur-game-ai&theme=radical" />
+  <img align="" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=chrome-dinosaur-game-ai&theme=radical" />
 </a>
 <a href="https://github.com/mohdalibn/glassmorphism-product-cards">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=glassmorphism-product-cards&theme=radical" />
+  <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=glassmorphism-product-cards&theme=radical" />
 </a>
 </p>  
   
