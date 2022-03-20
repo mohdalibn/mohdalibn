@@ -88,7 +88,7 @@
 
 <p>
   <a href="https://github.com/mohdalibn/flappy-bird-game-ai">
-   <img width="370" src="https://user-images.githubusercontent.com/95453430/156926147-143a98b2-95cd-49ea-b8ec-3dfb31dc86fb.png" />
+   <img width="370" src="https://user-images.githubusercontent.com/95453430/159156713-ecfe565f-2d97-422f-9305-c1b27331391a.png" />
   </a>
   <a href="https://github.com/mohdalibn/chrome-dinosaur-game-ai">
    <img width="370" align="right" src="https://user-images.githubusercontent.com/95453430/156926231-a864c3f4-1fb2-4fb7-83a3-52b0894a11ea.png" />
