@@ -68,7 +68,7 @@
 
 <p>
    <a href="https://github.com/mohdalibn/gesture-volume-controller-app">
-    <img  width="370" src="https://user-images.githubusercontent.com/95453430/159155311-541b7951-a5f3-4865-99ec-686e2f4a80f0.png" />
+    <img  width="370" src="https://user-images.githubusercontent.com/95453430/159252924-f6eb10f6-38cb-40f6-8093-b5e5d18f6459.png" />
   </a>
   <a href="https://github.com/mohdalibn/face-detector-app">
    <img align="right" width="370" src="https://user-images.githubusercontent.com/95453430/158071154-6b00f4ae-4242-4822-8f57-21cd487e8ac9.png" />
@@ -81,8 +81,8 @@
     <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=face-detector-app&theme=radical" />
   </a>
 </p>  
-  
-  
+
+
 <br>
 
 
