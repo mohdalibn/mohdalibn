@@ -23,7 +23,7 @@
 
 <h4 align="left">I'd love to have a chat. Check out my social handles and drop a follow.</h4>
 
-[<img align="center" width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img align="center" width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img align="center" width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img align="center" width="30" src="icons/discord.svg"/>](ProfileInfo.md) [<img align="center" width="30" src="icons/envelope.svg"/>](mailto:mbnmarketingservice@gmail.com) 
+[<img align="center" width="30" src="icons/linkedin.svg"/>](https://www.linkedin.com/in/mohdalibn/) [<img align="center" width="30" src="icons/instagram.svg"/>](https://www.instagram.com/mohdalibn) [<img align="center" width="30" src="icons/facebook-messenger.svg"/>](https://www.facebook.com/mohdalibn) [<img align="center" width="30" src="icons/discord.svg"/>](ProfileInfo.md) [<img align="center" width="30" src="icons/envelope.svg"/>](mailto:mabnofficial@gmail.com) 
 
 <!-- <a href="#"><img align="right" width="150" src="https://img.icons8.com/external-bearicons-gradient-bearicons/200/000000/external-Follow-social-media-bearicons-gradient-bearicons.png"/></a>
  -->
