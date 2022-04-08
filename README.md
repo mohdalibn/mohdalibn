@@ -65,7 +65,6 @@
 
 <br>
 
-
 <p>
    <a href="https://github.com/mohdalibn/gesture-volume-controller-app">
     <img  width="370" src="https://user-images.githubusercontent.com/95453430/159252924-f6eb10f6-38cb-40f6-8093-b5e5d18f6459.png" />
@@ -82,23 +81,21 @@
   </a>
 </p>  
 
-
 <br>
-
 
 <p>
   <a href="https://github.com/mohdalibn/flappy-bird-game-ai">
    <img width="370" src="https://user-images.githubusercontent.com/95453430/159156713-ecfe565f-2d97-422f-9305-c1b27331391a.png" />
   </a>
-  <a href="https://github.com/mohdalibn/chrome-dinosaur-game-ai">
-   <img width="370" align="right" src="https://user-images.githubusercontent.com/95453430/156926231-a864c3f4-1fb2-4fb7-83a3-52b0894a11ea.png" />
+  <a href="https://github.com/mohdalibn/cv-ball-tracking-game">
+   <img width="370" align="right" src="https://user-images.githubusercontent.com/95453430/162527589-4e9581ec-a8cd-4c57-b4ee-3ad3a25a1331.png" />
   </a>
     
  <a href="https://github.com/mohdalibn/flappy-bird-game-ai">
   <img align="" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=flappy-bird-game-ai&theme=radical" />
  </a>
-<a href="https://github.com/mohdalibn/chrome-dinosaur-game-ai">
-  <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=chrome-dinosaur-game-ai&theme=radical" />
+<a href="https://github.com/mohdalibn/cv-ball-tracking-game">
+  <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=cv-ball-tracking-game&theme=radical" />
 </a>
 </p>  
   
