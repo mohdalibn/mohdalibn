@@ -119,3 +119,22 @@
     <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=airpods-replica-site&theme=radical" />
   </a>
 </p>  
+
+<br>
+
+<p>
+  <a href="https://github.com/mohdalibn/airpods-replica-site">
+   <img width="370" src="https://user-images.githubusercontent.com/95453430/156926877-d98d7aa6-8feb-4f23-999f-4ed18ffe02e0.png" />
+  </a>
+  <a href="https://github.com/mohdalibn/self-driving-car-simulator">
+    <img align="right" width="370" src="https://user-images.githubusercontent.com/95453430/162526872-6a29bf93-211f-488c-ba1d-01d8feedba21.png" />
+  </a>
+  
+   <a href="https://github.com/mohdalibn/airpods-replica-site">
+    <img  width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=airpods-replica-site&theme=radical" />
+  </a>
+   <a href="https://github.com/mohdalibn/self-driving-car-simulator">
+    <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=self-driving-car-simulator&theme=radical" />
+  </a>
+  
+</p> 
