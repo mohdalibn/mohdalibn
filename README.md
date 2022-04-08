@@ -105,19 +105,20 @@
 <br>
 
 <p>
+   <a href="https://github.com/mohdalibn/chrome-dinosaur-game-ai">
+   <img width="370" src="https://user-images.githubusercontent.com/95453430/156926231-a864c3f4-1fb2-4fb7-83a3-52b0894a11ea.png" />
+  </a>
   <a href="https://github.com/mohdalibn/face-mesh-detection-web-app">
-   <img width="370" src="https://user-images.githubusercontent.com/95453430/159155122-3a514a65-44ff-4412-b14e-69b23dd1968f.png" />
+   <img align="right" width="370" src="https://user-images.githubusercontent.com/95453430/159155122-3a514a65-44ff-4412-b14e-69b23dd1968f.png" />
   </a>
-  <a href="https://github.com/mohdalibn/airpods-replica-site">
-    <img align="right" width="370" src="https://user-images.githubusercontent.com/95453430/156926877-d98d7aa6-8feb-4f23-999f-4ed18ffe02e0.png" />
+
+  <a href="https://github.com/mohdalibn/chrome-dinosaur-game-ai">
+  <img width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=chrome-dinosaur-game-ai&theme=radical" />
+ </a>
+  <a href="https://github.com/mohdalibn/face-mesh-detector-app">
+    <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=face-mesh-detection-web-app&theme=radical" />
   </a>
-  
-   <a href="https://github.com/mohdalibn/face-mesh-detector-app">
-    <img align="" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=face-mesh-detection-web-app&theme=radical" />
-  </a>
-    <a href="https://github.com/mohdalibn/airpods-replica-site">
-    <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=airpods-replica-site&theme=radical" />
-  </a>
+
 </p>  
 
 <br>
