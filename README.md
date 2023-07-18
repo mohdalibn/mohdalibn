@@ -1,7 +1,11 @@
 
 ![Mohd Ali Bin Naser](MbnGithubBanner.gif)
 
-<p>I am an experienced self-taught programmer currently working towards my Bachelor's degree in Computer Science from Memorial University in Canada. I am enthusiastic about developments in the fields of Machine Learning, Computer Vision, & Web Development. I've worked on personal ML, Computer Vision, & Web Development projects and learned new industry-demanding skills. I get excited about opportunities where I can leverage my skills to work on interesting projects.</p>
+<p>👨‍💻 Experienced self-taught programmer on a thrilling journey towards a Computer Science Bachelor's degree at Memorial University in Canada. 🎓 Passionately drawn to the ever-evolving realms of Machine Learning, Computer Vision, & Web Development. 🌐
+
+🚀 Fueled by the joy of personal projects exploring ML, Computer Vision, & Web Dev, I've honed my expertise and embraced cutting-edge skills in demand by the industry. 📈
+
+💡 What truly excites me is the prospect of leveraging my skills to collaborate on captivating projects that push the boundaries of innovation. 🌟 Let's connect and create something remarkable together! 🤝 #TechEnthusiast #CodeAdventurer</p>
 
 <!-- <p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdalibn&layout=compact&theme=radical" alt="mohdalibn" /></p> -->
 <p><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdalibn&theme=algolia&count_private=true" alt="mohdalibn"/></p>
