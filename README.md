@@ -116,7 +116,7 @@
   <a href="https://github.com/mohdalibn/chrome-dinosaur-game-ai">
   <img width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=chrome-dinosaur-game-ai&theme=radical" />
  </a>
-  <a href="https://github.com/mohdalibn/face-mesh-detector-app">
+  <a href="https://github.com/mohdalibn/face-mesh-detection-web-app">
     <img align="right" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdalibn&repo=face-mesh-detection-web-app&theme=radical" />
   </a>
 
